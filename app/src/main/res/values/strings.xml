@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BrihanBocanegra</string>
+    <string name="image">Imagen</string>
+    <string name="brihan">Brihan Bocanegra</string>
+    <string name="especialidad">Azure data * Al Specialist Microsoft Certified trainer</string>
+
+
+    <string name="fecha">calendario</string>
+    <string name="cel">celular</string>
+    <string name="house">Lima, Perú</string>
+    <string name="dia">16 de junio, 1995</string>
+    <string name="ciudad">Lima, Perú</string>
+    <string name="email">me@brihanbocanegra.com</string>
+    <string name="teléfono">+51910692305</string>
+    <string name="ui_ux_job">UI/UX job Connector Program</string>
+
+
+</resources>
